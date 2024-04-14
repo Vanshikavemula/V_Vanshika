@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 <div align="center">
-# I am Kimish Choudhary 
+# I am Vanshika Vemula 
 # Student | Developer
 
 ## **Tech Stack**
@@ -30,7 +30,7 @@
 
 
 > Social Profiles: 
-  - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b551255" data-version="v1"><a class="badge-base__link LI-simple-link" href="mailto:kimishchoudhary19">Email</a></div>
+  - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b551255" data-version="v1"><a class="badge-base__link LI-simple-link" href="mailto:vanshika.vemula16">Email</a></div>
 
   
 </div>
